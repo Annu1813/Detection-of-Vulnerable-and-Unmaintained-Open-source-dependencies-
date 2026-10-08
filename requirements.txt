@@ -1,0 +1,8 @@
+# Dependencies for the original scripts and exploratory notebooks.
+# Versions are intentionally not pinned; reproducibility has not been verified.
+pandas
+requests
+pip-audit
+jupyter
+matplotlib
+seaborn

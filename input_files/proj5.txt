@@ -1,0 +1,7 @@
+aiohttp==3.10.2
+
+click==8.1.7
+
+colorama==0.4.6
+
+nbformat==5.10.4

@@ -1,0 +1,8 @@
+matplotlib==1.5.1  # Jan 10, 2016
+numpy==1.11.0  # March 27, 2016
+pandas==0.18.0  # March 13, 2016
+scipy==0.17.0  # Jan 22, 2016
+scikit-learn==0.17.0  # Feb 18, 2016
+
+ipython
+jupyter
